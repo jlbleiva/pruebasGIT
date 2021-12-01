@@ -1,4 +1,0 @@
-prueba del fichero nuevo
-tiene 2 lineas ahora
-otra modify
-cuarta linea modificada
